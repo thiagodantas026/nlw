@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
  }
 
 
- @midia (max-width: 900px){
+ @media (max-width: 900px){
     #page-home{
         background-position-x: 70vw;
     }
